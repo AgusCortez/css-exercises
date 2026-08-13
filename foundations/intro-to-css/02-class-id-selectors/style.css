@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+p.first-class{
+    font-size: 24px;
+    
+}
+
+#number2-id {
+    color: blue;
+    font-size: 36px;
+}
+
+
+#number4-id {
+    background-color: rgb(144, 240, 135);
+    font-size: 24px;
+    font-weight: bold;
+}
